@@ -1,5 +1,5 @@
 export type IBike = {
-  image: string;
+  imgUrl: string;
   title: string;
   variations: {
     color: string;

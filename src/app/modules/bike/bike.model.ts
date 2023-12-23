@@ -5,7 +5,7 @@ type BikeModel = Model<IBike, Record<string, unknown>>;
 
 const BikeSchema = new Schema<IBike>(
   {
-    image: {
+    imgUrl: {
       type: String,
       required: true,
     },
