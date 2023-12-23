@@ -13,18 +13,16 @@ const BikeSchema = new Schema<IBike>(
       type: String,
       required: true,
     },
-    variations: [
-      {
-        color: {
-          type: String,
-          required: true,
-        },
-        size: {
-          type: String,
-          required: true,
-        },
+    variations: {
+      color: {
+        type: [String],
+        required: true,
       },
-    ],
+      size: {
+        type: [String],
+        required: true,
+      },
+    },
   },
   {
     timestamps: true,

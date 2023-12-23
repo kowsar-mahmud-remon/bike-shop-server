@@ -8,17 +8,18 @@ const createBikeZodSchema = z.object({
     title: z.string({
       required_error: 'Title is required',
     }),
-
-    variations: z.array(
-      z.object({
-        color: z.string({
+    variations: z.object({
+      color: z.array(
+        z.string({
           required_error: 'Color is required',
-        }),
-        size: z.string({
+        })
+      ),
+      size: z.array(
+        z.string({
           required_error: 'Size is required',
-        }),
-      })
-    ),
+        })
+      ),
+    }),
   }),
 });
 
