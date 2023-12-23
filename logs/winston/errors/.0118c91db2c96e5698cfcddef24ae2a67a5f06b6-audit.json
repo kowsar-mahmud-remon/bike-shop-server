@@ -1,0 +1,70 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "I:\\Web Development\\projects 03\\the-renovation-station-server\\logs\\winston\\errors\\.0118c91db2c96e5698cfcddef24ae2a67a5f06b6-audit.json",
+    "files": [
+        {
+            "date": 1697122710950,
+            "name": "I:\\Web Development\\projects 03\\the-renovation-station-server\\logs\\winston\\errors\\phu-2023-12-10-20-error.log",
+            "hash": "84db3062221ea33b7ce4c7e10963826a57199a0d61c2fa547908471159375e74"
+        },
+        {
+            "date": 1697124324633,
+            "name": "I:\\Web Development\\projects 03\\the-renovation-station-server\\logs\\winston\\errors\\phu-2023-12-10-21-error.log",
+            "hash": "f481959273023f4e6909a4cdfee3867f423b09dfd1d25c5926d7c2e27dbe6011"
+        },
+        {
+            "date": 1697135454048,
+            "name": "I:\\Web Development\\projects 03\\the-renovation-station-server\\logs\\winston\\errors\\phu-2023-13-10-00-error.log",
+            "hash": "0a2e6511f2fecfd9d4e1b3807ce8280de917f02f776df19aa38003a4c37ea208"
+        },
+        {
+            "date": 1697137674877,
+            "name": "I:\\Web Development\\projects 03\\the-renovation-station-server\\logs\\winston\\errors\\phu-2023-13-10-01-error.log",
+            "hash": "fa714dc7cc75aa98c688a406400269d234277e6012026997593b668c6cdc6da4"
+        },
+        {
+            "date": 1697178004510,
+            "name": "I:\\Web Development\\projects 03\\the-renovation-station-server\\logs\\winston\\errors\\phu-2023-13-10-12-error.log",
+            "hash": "b74a9d2a1c70bb86f75819e9d07eac0f35a04d01e46992e60ead94ca318863b9"
+        },
+        {
+            "date": 1697197911778,
+            "name": "I:\\Web Development\\projects 03\\the-renovation-station-server\\logs\\winston\\errors\\phu-2023-13-10-17-error.log",
+            "hash": "b6e15a9cf02fbf34712ad3a2b6e9ef9b9abd3235de0a8b8b4f905db17b3f74ef"
+        },
+        {
+            "date": 1697200260987,
+            "name": "I:\\Web Development\\projects 03\\the-renovation-station-server\\logs\\winston\\errors\\phu-2023-13-10-18-error.log",
+            "hash": "0f29f83cd4f170c0deee9e1d113963b806685010f25ad8f77b3171539bdc329e"
+        },
+        {
+            "date": 1697202045449,
+            "name": "I:\\Web Development\\projects 03\\the-renovation-station-server\\logs\\winston\\errors\\phu-2023-13-10-19-error.log",
+            "hash": "7bb51db81ddb3f64da32d92c2d3899de7deb0e14c9dc8f9dd5043baf1867a6b4"
+        },
+        {
+            "date": 1697218538511,
+            "name": "I:\\Web Development\\projects 03\\the-renovation-station-server\\logs\\winston\\errors\\phu-2023-13-10-23-error.log",
+            "hash": "f60d79fdcf2457b4862e4091b6acc82106be8cb9536c3fb51695a1fdacc1993f"
+        },
+        {
+            "date": 1697220865820,
+            "name": "I:\\Web Development\\projects 03\\the-renovation-station-server\\logs\\winston\\errors\\phu-2023-14-10-00-error.log",
+            "hash": "d8413cb7083ca02aed3f81bb4e04c5a08ca1e62fb4e5516c1e0619d61ba22886"
+        },
+        {
+            "date": 1697226048041,
+            "name": "I:\\Web Development\\projects 03\\the-renovation-station-server\\logs\\winston\\errors\\phu-2023-14-10-01-error.log",
+            "hash": "898dc7262dc7f105a265561274314da5f5efe6426f9953078086a1799433a2f5"
+        },
+        {
+            "date": 1697227454620,
+            "name": "I:\\Web Development\\projects 03\\the-renovation-station-server\\logs\\winston\\errors\\phu-2023-14-10-02-error.log",
+            "hash": "fc3960ef5c329c7e3c04247daa74a851edb219f52a4a19b540bf402039d5234a"
+        }
+    ],
+    "hashType": "sha256"
+}

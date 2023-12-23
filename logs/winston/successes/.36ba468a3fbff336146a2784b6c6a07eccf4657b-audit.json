@@ -1,0 +1,115 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\.36ba468a3fbff336146a2784b6c6a07eccf4657b-audit.json",
+    "files": [
+        {
+            "date": 1697304943396,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-14-10-23-success.log",
+            "hash": "2aa20efac650d2a0c139a86b2eaad76d2532a5d2de43544fb5d116acef7376f6"
+        },
+        {
+            "date": 1697308051323,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-15-10-00-success.log",
+            "hash": "167c3629cd3d65f323fd5cac401ebd24219266f9e8c4dd342b4144238d324449"
+        },
+        {
+            "date": 1697310948075,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-15-10-01-success.log",
+            "hash": "ec4d1532c41755a5741e4be326b526b364c7d2cf94eb2c4c6d768d25aa7689c5"
+        },
+        {
+            "date": 1697347049938,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-15-10-11-success.log",
+            "hash": "e9b2c290b272d54541d67014535f5489c08c462cee435474d5ed467f12d02628"
+        },
+        {
+            "date": 1697353002858,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-15-10-12-success.log",
+            "hash": "c39088d8095ecf838298e2bc70702965d3af9b8292e0b893a411c8f851bfb061"
+        },
+        {
+            "date": 1697389292645,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-15-10-23-success.log",
+            "hash": "f0e76474bbd2999ee5a82535f8ffb680c6a9ac85910f3d39bbd5394109405cc6"
+        },
+        {
+            "date": 1697436220590,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-16-10-12-success.log",
+            "hash": "dac4df7741f11ef2a8f7261e5392c6eab06b9028a7d37af3d0ec9a760661d8cb"
+        },
+        {
+            "date": 1697481195331,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-17-10-00-success.log",
+            "hash": "e2f810343e48bc97c1b8275a721a289406612d5fcaf25b8ed4f8b06fa2277a3b"
+        },
+        {
+            "date": 1697482887461,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-17-10-01-success.log",
+            "hash": "1d93a2e492f17ca16081a96f21cef31e601ac6b18dd8a4cd9ee218570968be7e"
+        },
+        {
+            "date": 1697520825622,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-17-10-11-success.log",
+            "hash": "6e6362eca15ddb2f407df2afbc1c3d300cb9d1737e26534c2b3642e34cedb508"
+        },
+        {
+            "date": 1697525353303,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-17-10-12-success.log",
+            "hash": "fd979e54dcc3f742d638ca8140877fbc81c0c25e9715c20cee35c78d84cba154"
+        },
+        {
+            "date": 1697527522087,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-17-10-13-success.log",
+            "hash": "f5f3e803f982687b6ef34fae92f1d678ea61b5f13165d079529965fde095019f"
+        },
+        {
+            "date": 1697538235595,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-17-10-16-success.log",
+            "hash": "13d8b0c854db8244fc9d3c800b5f76382dcf083f619900094c8e8672aeaad69d"
+        },
+        {
+            "date": 1697569837248,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-18-10-01-success.log",
+            "hash": "0d3edde18b144bb14780840233a53f31f47090e9401fdcbe78aa0d0d47dc6f99"
+        },
+        {
+            "date": 1697609014994,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-18-10-12-success.log",
+            "hash": "3f6a82652d1db2f23160a2128276f41b7ca7eae5bdfce4fd5bded37155b2af27"
+        },
+        {
+            "date": 1697634475428,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-18-10-19-success.log",
+            "hash": "44b18dce647e7596017cda487ab07e71af737f4e26031e718b56a28b1e7abb28"
+        },
+        {
+            "date": 1697656481012,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-19-10-01-success.log",
+            "hash": "9076db5c95e44d0e12a55db3e0bf8faa2995ad767e65b9d5578dac714ae07d3d"
+        },
+        {
+            "date": 1697696739253,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-19-10-12-success.log",
+            "hash": "174f6fbef5aad5ba3392f7c4d3d9ce02f6b715349e283b2bb46c46a4858d4291"
+        },
+        {
+            "date": 1697731295575,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-19-10-22-success.log",
+            "hash": "28f0e4f2f1fd8228d0fd717495d68ac31fa6fadf25661083e49e909d61697857"
+        },
+        {
+            "date": 1697744955412,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-20-10-01-success.log",
+            "hash": "94380e08437a2a56709b589fba2370902310a62c47f0780a4393e958d4324778"
+        },
+        {
+            "date": 1697747027207,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\successes\\phu-2023-20-10-02-success.log",
+            "hash": "1c820158db12dce4737d4747ae1904c0e51b1a4aed6b88c0897f486c97a77445"
+        }
+    ],
+    "hashType": "sha256"
+}

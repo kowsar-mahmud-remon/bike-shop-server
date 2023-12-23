@@ -1,0 +1,115 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\.c6322e96813577f000718b4c6d166a23daf848d2-audit.json",
+    "files": [
+        {
+            "date": 1697304943415,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-14-10-23-error.log",
+            "hash": "731e3198c3f2c421d8afe0013551b7539309cc89f9318293d420ddc448a32845"
+        },
+        {
+            "date": 1697308051342,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-15-10-00-error.log",
+            "hash": "068b9fe8c31aef48d8ad2f3796c340e905d503f0559782c751782ec9e679549b"
+        },
+        {
+            "date": 1697310948087,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-15-10-01-error.log",
+            "hash": "70270a8f7eb1db0e5fc6e8024ac79c37afe283276d0e8560ada2a36ea415b7d7"
+        },
+        {
+            "date": 1697347049990,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-15-10-11-error.log",
+            "hash": "74b44c891fc113d8b6ec9dfe474ebe34f980bb71c9b0a45ecd6fcc350f2c0934"
+        },
+        {
+            "date": 1697353002872,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-15-10-12-error.log",
+            "hash": "a585a3805ec49b95fbc171b2c6d0adbf3a548f53c7893ba06080a5aec2603f60"
+        },
+        {
+            "date": 1697389292653,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-15-10-23-error.log",
+            "hash": "0038d9da6993d2538c74856bc35d9d0d4166ee8cb9c36cdea5d06193a05a84f7"
+        },
+        {
+            "date": 1697436220601,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-16-10-12-error.log",
+            "hash": "d8cb19013dd1b732e993675923526febeedc4ae094e8ace38f4842b30f164f58"
+        },
+        {
+            "date": 1697481195350,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-17-10-00-error.log",
+            "hash": "53ab118cd99f5d7f14e2f918bd70ef33128682af65d357743806e7b8359ef55b"
+        },
+        {
+            "date": 1697482887483,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-17-10-01-error.log",
+            "hash": "dd8b7c5c68d33a16e147cf7fab9f6aaec7b1c49cdeebc5294e7d2946ff71ae2e"
+        },
+        {
+            "date": 1697520825668,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-17-10-11-error.log",
+            "hash": "c02c1342648b86fec7188993708c4c51de9613b47cf076ab01835267f691ff37"
+        },
+        {
+            "date": 1697525353315,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-17-10-12-error.log",
+            "hash": "7707a6007a05c2b15ab9276d4604b3078409582d251810af304aa95a34a6b557"
+        },
+        {
+            "date": 1697527522103,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-17-10-13-error.log",
+            "hash": "ca17eb30739d1275a9b90a4181654f503fc326c819780523612fab59e87636a7"
+        },
+        {
+            "date": 1697538235614,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-17-10-16-error.log",
+            "hash": "1f618e7701cc4691d9dae7e1ea6c1d1711e0190e2f197b3f5950d068f84b4965"
+        },
+        {
+            "date": 1697569837264,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-18-10-01-error.log",
+            "hash": "de017f624747edade84feb483ca000d311296caaa395e85e2bab8aa7a7ffe2e6"
+        },
+        {
+            "date": 1697609015012,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-18-10-12-error.log",
+            "hash": "c5d08f9b15b0904859661dc87f1fc9b523fddaf63ae51390477bb67e07dc040d"
+        },
+        {
+            "date": 1697634475439,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-18-10-19-error.log",
+            "hash": "47ea887b46e14cbdcb060c67e650a2ce472df6e52fc44d9c4c1d817165f6da9f"
+        },
+        {
+            "date": 1697656481029,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-19-10-01-error.log",
+            "hash": "78759c4dde06f25f3c3514b556d904eac80f5a5d24ed51fd5be7b86def6ff446"
+        },
+        {
+            "date": 1697696739279,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-19-10-12-error.log",
+            "hash": "50e2eb60aefc18750b1939b812f31ada10f44da7bc5a5b4d240d55ce07f424fc"
+        },
+        {
+            "date": 1697731295616,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-19-10-22-error.log",
+            "hash": "d1d37de77f253dd826c91c36e170089b57bdd2b66c83e49e78dfad0c4e4378f3"
+        },
+        {
+            "date": 1697744955435,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-20-10-01-error.log",
+            "hash": "00ca9d913ef3369d5c7e40fc792a0a25b23c509f3cc738831ea6dd118f418ac7"
+        },
+        {
+            "date": 1697747027213,
+            "name": "I:\\Web Development\\projects 03\\tech-zone-server\\logs\\winston\\errors\\phu-2023-20-10-02-error.log",
+            "hash": "838fa4075b3f788524c214d7cfd9d236427c246e342c5d7223f059e687af5d90"
+        }
+    ],
+    "hashType": "sha256"
+}
