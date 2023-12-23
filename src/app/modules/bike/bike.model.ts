@@ -15,11 +15,11 @@ const BikeSchema = new Schema<IBike>(
     },
     variations: {
       color: {
-        type: [String],
+        type: String,
         required: true,
       },
       size: {
-        type: [String],
+        type: String,
         required: true,
       },
     },
