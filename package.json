@@ -1,5 +1,5 @@
 {
-  "name": "bike-rider-server",
+  "name": "bike-shop-server",
   "version": "1.0.0",
   "description": "",
   "main": "src/server.ts",
